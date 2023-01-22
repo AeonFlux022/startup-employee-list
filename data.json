@@ -1,0 +1,32 @@
+{
+  "startups": [
+    {
+      "name": "Socialy",
+      "category": "Social",
+      "owner": "John Doe",
+      "description": "Mobile App for people who wants to connect through virtual reality.",
+      "id": 10
+    },
+    {
+      "name": "HealthGuard",
+      "category": "Health",
+      "owner": "Peter Griffin",
+      "description": "Mobile app that checks vital information of users.",
+      "id": 11
+    },
+    {
+      "name": "Fish-o-Dex",
+      "category": "Education",
+      "owner": "Martin Lowe",
+      "description": "Informative app about varieties of fishes.",
+      "id": 12
+    },
+    {
+      "name": "NFT Biz",
+      "category": "Business",
+      "owner": "FJ Buenaflor",
+      "description": "Mobile app for NFT transactions and cryptocurrency.",
+      "id": 13
+    }
+  ]
+}
